@@ -12,7 +12,6 @@ The mission is simple but ambitious: **create a lightweight, reproducible, and e
 
 GRR Linux is not just another distro. It's a statement:
 
-> **A teenager from Iran can build an operating system. And it's for everyone, everywhere.**
 
 ---
 
@@ -134,15 +133,6 @@ Ways to contribute:
 ## 📜 License
 
 This project is licensed under the **MIT License** — free to use, modify, and distribute.
-
----
-
-## 💜 Credits
-
-**Made by Amirali Granmayeh (amiraligrr), 16, from Iran — for everyone, everywhere.**
-
-> *"Built with passion, curiosity, and a lot of late nights.  
-> From Kerman to the world."*
 
 ---
 
